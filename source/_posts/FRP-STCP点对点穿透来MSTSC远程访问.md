@@ -22,7 +22,7 @@ tags:
 
 
 
-步骤1. 下载 <a href='<https://github.com/fatedier/frp/releases>'>**FRP**</a> `注i386 是32位的，arm64 是64位的`
+步骤1. 下载 <a href='https://github.com/fatedier/frp/releases' >**FRP**</a> `注i386 是32位的，arm64 是64位的`
 
 步骤2. 将FRP分别解压到**服务器** 和 **公司电脑** 和 **你家里的电脑**  
 
@@ -132,5 +132,5 @@ frpc.exe -c ./frpc.ini
 
 步骤6. 家里的电脑连接即可
 
-![](D:\document\GitHub\blog\source\_posts\FRP-STCP点对点穿透来MSTSC远程访问\Snipaste_2020-02-26_23-18-44.jpg)
+![](FRP-STCP点对点穿透来MSTSC远程访问\Snipaste_2020-02-26_23-18-44.jpg)
 
