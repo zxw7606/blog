@@ -132,5 +132,5 @@ frpc.exe -c ./frpc.ini
 
 步骤6. 家里的电脑连接即可
 
-![](FRP-STCP点对点穿透来MSTSC远程访问\Snipaste_2020-02-26_23-18-44.jpg)
+<img src="FRP-STCP点对点穿透来MSTSC远程访问/Snipaste_2020-02-26_23-18-44.jpg" style="zoom:75%;" />
 

@@ -55,5 +55,5 @@ FROM t_score GROUP BY NAME
 ```
 
 
-![1582963877515](D:\document\GitHub\blog\source\_posts\mysql的行列转换\1582963877515.png)
+![1582963877515](mysql的行列转换/1582963877515.png)
 
