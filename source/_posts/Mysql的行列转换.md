@@ -1,4 +1,5 @@
 ---
+thumbnail: /images/mysql.jpg
 title: Mysql的行列转换
 date: 2020-02-29 11:52:06
 tags:

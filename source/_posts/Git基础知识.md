@@ -1,8 +1,11 @@
 ---
+thumbnail: /images/git.jpg
 title: Git基础知识
 date: 2020-03-14 13:00:10
 tags:
 	- git
+categories:
+    - [阅读笔记]
 ---
 
 
