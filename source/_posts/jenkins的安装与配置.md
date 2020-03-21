@@ -1,11 +1,10 @@
 ---
 thumbnail: /images/.jpeg
 title: jenkins的安装与配置
+tags: 'Jenkins,测试'
 date: 2020-03-21 13:20:19
-tags:
-    - Jenkins
-    - 测试
 ---
+
 
 
 ### 安装环境
