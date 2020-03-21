@@ -1,5 +1,5 @@
 ---
-thumbnail: /images/.jpeg
+thumbnail: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2843016886,1003092622&fm=26&gp=0.jpg
 title: jenkins的安装与配置
 tags: 'Jenkins,测试'
 date: 2020-03-21 13:20:19

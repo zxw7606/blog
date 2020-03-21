@@ -167,8 +167,10 @@ widgets:
         # Where should the widget be placed, left or right
         position: left
         # Links to be shown in the links widget
+        # links_title: 友情链接
         links:
             Git: 'https://github.com/zxw7606'
+            Cgg: 'http://www.cgtest.club'
     -
         # Widget name
         type: category
