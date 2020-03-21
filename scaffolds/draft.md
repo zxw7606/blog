@@ -1,4 +1,7 @@
 ---
+thumbnail: /images/.jpeg
 title: {{ title }}
-tags:
+date: {{ date }}
+tags: {{ tags }}
+
 ---

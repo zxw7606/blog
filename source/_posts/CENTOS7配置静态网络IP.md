@@ -1,0 +1,38 @@
+---
+title: CENTOS7配置静态网络IP
+date: 2020-03-19 23:17:40
+tags:
+	- linux
+---
+
+
+
+`cat /etc/sysconfig/network-scripts/ifcfg-ens33`
+
+
+
+```bash
+TYPE=Ethernet
+PROXY_METHOD=none
+BROWSER_ONLY=no
+BOOTPROTO=none
+DEFROUTE=yes
+IPV4_FAILURE_FATAL=no
+IPV6INIT=yes
+IPV6_AUTOCONF=yes
+IPV6_DEFROUTE=yes
+IPV6_FAILURE_FATAL=no
+IPV6_ADDR_GEN_MODE=stable-privacy
+NAME=ens33
+UUID=bf34afa5-dafd-4876-a94a-58d58856451a
+DEVICE=ens33
+ONBOOT=yes
+IPADDR=192.168.108.129
+PREFIX=24
+GATEWAY=192.168.108.2
+DNS1=223.5.5.5
+IPV6_PRIVACY=no
+DNS2=223.6.6.6
+
+```
+
