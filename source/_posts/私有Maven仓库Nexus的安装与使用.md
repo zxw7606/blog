@@ -1,5 +1,5 @@
 ---
-thumbnail: /images/.jpeg
+thumbnail: /images/nexus.jpeg
 title: 私有Maven仓库Nexus的安装与使用
 date: 2020-03-21 22:01:44
 tags:
@@ -106,3 +106,15 @@ categories:
 ```
 
 ![](私有Maven仓库Nexus的安装与使用/2020-03-22-00-27-48.gif)
+
+
+
+### 另外
+
+之前搭建一个Jenkins，可能会出现容器网络无法互通的情况，可以尝试如下解决
+1. `docker network create mynet` 默认为桥接模式
+2. `docker network connect mynet [jenkins name]`
+3. `docker network connect mynet [nexus name]`
+
+或者在nexus 启动时
+`docker run --net=mynet`
