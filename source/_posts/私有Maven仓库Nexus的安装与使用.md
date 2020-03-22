@@ -1,5 +1,5 @@
 ---
-thumbnail: /images/nexus.jpeg
+thumbnail: /images/nexus.jpg
 title: 私有Maven仓库Nexus的安装与使用
 date: 2020-03-21 22:01:44
 tags:
