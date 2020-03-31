@@ -87,3 +87,21 @@ Mac地址：00:30:48:2A:19:89
 
 3. 添加默认本地前缀fe80::/10（链路本地单播地址）fe80:0230:48ff:fe2a:1989/64
 
+
+
+
+### TCP的三次握手
+
+
+1. PC向Server发送请求(该请求有同步标记SYN和随机的SEQ号代表此次请求)
+2. Server收到并且返回请求(该请求有响应标记ACK、一个ack number,ack number = seq+1 代表对那个指定的请求作出响应、随机的SEQ号代表此次请求)
+3. PC收到请求后返回一个请求(该请求有响应标记ACK、一个ack number,ack number = seq+1,随机的SEQ号代表此次请求)
+
+
+
+### TCP的四次挥手
+
+1. PC向Server发送请求(该请求有结束标记FIN、响应标记ACK、随机的SEQ号代表此次请求)
+2. Server向PC发送请求(该请求有结束标记FIN、响应标记ACK、随机的SEQ号代表此次请求、seq number = 上一个请求的ack number 代表对那个指定的请求作出响应,ack number= seq+1 )
+3. PC向Server发送请求(响应标记ACK、seq number = 上一个请求的ack number, ack number=seq ) 
+4. Server停止响应
