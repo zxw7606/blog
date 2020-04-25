@@ -1,5 +1,5 @@
 ---
-thumbnail: /images/.jpg
+thumbnail: https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1088972770,3430882589&fm=26&gp=0.jpg
 title: Microsoft Office的安装与激活
 tags: 'microsoft,office'
 categories:
