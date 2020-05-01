@@ -11,7 +11,9 @@ date: 2020-04-25 17:50:03
 ### 安装步骤
 
 step1. 下载Office2019：
-`ed2k://|file|cn_office_professional_plus_2019_x86_x64_dvd_5e5be643.iso|3775004672|1E4FFA5240F21F60DC027F73F1C62FF4|/`
+```http
+ed2k://|file|cn_office_professional_plus_2019_x86_x64_dvd_5e5be643.iso|3775004672|1E4FFA5240F21F60DC027F73F1C62FF4|/
+```
 
 step2. 安装KMS服务器
 `https://github.com/Wind4/vlmcsd-docker/tree/4195d04f687973a514e3fb663bd87161afd46697`
