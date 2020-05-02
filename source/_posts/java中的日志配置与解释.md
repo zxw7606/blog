@@ -40,6 +40,7 @@ log4j.appender.console.layout.ConversionPattern =  %d{ABSOLUTE} %5p %c{ 1 }:%L -
 log4j.appender.console.Threshold = DEBUG 
 
 ```
+<!-- more -->
 
 `java代码如下`，注：这是一个spring非web项目，日志框架为log4j，slf4j，slf4j-log4j2
 ```java
