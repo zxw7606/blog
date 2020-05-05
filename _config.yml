@@ -13,7 +13,7 @@ timezone: UTC
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: 'http://example.github.io'
+url: 'http://blog.zzxw.xyz:44444'
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults: :year/:month/:day/:title/
@@ -98,3 +98,9 @@ deploy:
   type: git
   repo: git@blog.zzxw.xyz:/home/git/repo/blog.git
   branch: master
+
+
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
