@@ -77,7 +77,7 @@ comment:
     # shortname: zxw7606
     type: gitalk
     client_id: 1309d31d7f78d5f41e58
-    client_secret: 29e3b2de64086032cadd26c1aab440ed4c9de5e1
+    client_secret: 7127ea731b2357678821ad9aeff577fa5335b35b
     repo: blog
     owner: zxw7606
     language: zh-CN
