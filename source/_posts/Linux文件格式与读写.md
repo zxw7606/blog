@@ -2,7 +2,7 @@
 thumbnail: /images/linux.jpg
 title: Linux文件格式与读写
 date: 2020-05-02 22:33:41
-tags: 'C,操作系统'
+tags: [C,操作系统]
 categories: '学习'
 ---
 

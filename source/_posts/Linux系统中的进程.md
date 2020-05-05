@@ -1,6 +1,6 @@
 ---
 thumbnail: /images/linux.jpg
-title: Linux中的系统文件
+title: Linux中的系统进程
 date: 2020-05-05 17:22:37
 tags: [C,Linux,操作系统]
 categories: [学习,笔记]
