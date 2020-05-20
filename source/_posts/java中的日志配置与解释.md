@@ -1,5 +1,5 @@
 ---
-thumbnail: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1587820440412&di=b8b72fcde7f32949295c6f9c52f5f3aa&imgtype=0&src=http%3A%2F%2Fc.hiphotos.baidu.com%2Fbaike%2Fs%253d250%2Fsign%3D536819126e061d957946303d4bf40a5d%2F1b4c510fd9f9d72a9a307037d42a2834349bbb40.jpg
+thumbnail: http://img0.imgtn.bdimg.com/it/u=344214012,4111771708&fm=26&gp=0.jpg
 title: java中的日志配置与解释
 tags: 'java,log'
 date: 2020-03-22 12:19:39
@@ -40,7 +40,6 @@ log4j.appender.console.layout.ConversionPattern =  %d{ABSOLUTE} %5p %c{ 1 }:%L -
 log4j.appender.console.Threshold = DEBUG 
 
 ```
-<!-- more -->
 
 `java代码如下`，注：这是一个spring非web项目，日志框架为log4j，slf4j，slf4j-log4j2
 ```java
