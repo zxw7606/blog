@@ -76,8 +76,8 @@ comment:
     # type: disqus
     # shortname: zxw7606
     type: gitalk
-    client_id: 
-    client_secret: 
+    client_id: fee53b2773cac9049a74
+    client_secret: dc1415aa1bf256f2fcd484cbc7687a2fed6e0c86
     repo: blog
     owner: zxw7606
     language: zh-CN
@@ -86,10 +86,10 @@ comment:
     per_page: 20                    # 可选填
     distraction_free_mode: false    # 可选填
     pager_direction: last           # 可选填
-    # # create_issue_manually: false    # 可选填
+    create_issue_manually: false    # 可选填
     # proxy:                          # 可选填
     # # flip_move_options:              # 可选填
-    # enable_hotkey: true             # 可选填
+    enable_hotkey: true             # 可选填
     
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
@@ -188,6 +188,8 @@ widgets:
         links:
             Git: 'https://github.com/zxw7606'
             Cgg: 'http://www.cgtest.club'
+            Wzl: 'https://rainlu.gitee.io/blog/'
+            Zw: 'https://zoe1118.gitee.io/blog/'
     -
         # Widget name
         type: category
@@ -232,7 +234,7 @@ plugins:
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Google-Analytics
     google-analytics:
         # Google Analytics tracking id
-        tracking_id: 
+        tracking_id: UA-165567386-1
     # Baidu Analytics plugin settings
     # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Baidu-Analytics
     baidu-analytics:

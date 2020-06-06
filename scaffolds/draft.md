@@ -7,5 +7,9 @@ categories:
 widgets: 
   - type: recent_posts
     position: right
+  - type: toc
+    position: right
+toc: true
 ---
 
+<!-- more -->

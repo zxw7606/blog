@@ -99,6 +99,8 @@ class NestedClosures {
 
 ##构建流程(简单的HelloWorld)
 
+`gradle init` 命令初始化一个gradle项目
+
 ```shell
 #bash
 $ gradle build 
