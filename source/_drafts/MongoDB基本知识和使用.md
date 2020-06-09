@@ -8,8 +8,8 @@ widgets:
     position: right
 toc: true
 date: 2020-06-09 16:13:43
-tags:
-categories:
+tags: MongoDB, 数据库
+categories: [学习, 笔记]
 ---
 
 ### MongoDB的数据类型
