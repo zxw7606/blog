@@ -1,8 +1,8 @@
 ---
 thumbnail: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=190035761,2302710927&fm=26&gp=0.jpg
 title: Spring源码阅读
-tags: 'Spring,Java'
-categories: Spring
+tags: [Spring,Java]
+categories: [Spring]
 widgets:
   - type: recent_posts
     position: right
