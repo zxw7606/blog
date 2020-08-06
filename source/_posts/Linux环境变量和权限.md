@@ -1,8 +1,7 @@
 ---
 title: Linux环境变量和权限
 date: 2019-11-24 11:01:16
-tags:
-	- linux
+tags: [C,操作系统]
 ---
 
 

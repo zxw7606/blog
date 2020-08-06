@@ -2,7 +2,7 @@
 thumbnail: /images/linux.jpg
 title: Linux的文件和目录
 date: 2020-05-03 14:57:58
-categories: [学习]
+categories: [学习,笔记]
 tags: [C,操作系统]
 widgets: 
   - type: recent_posts

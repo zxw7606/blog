@@ -7,7 +7,7 @@ widgets:
   - type: toc
     position: right
 date: 2020-05-29 14:09:53
-tags: mysql,数据库
+tags: [mysql,数据库]
 categories: 学习
 toc: true
 ---
