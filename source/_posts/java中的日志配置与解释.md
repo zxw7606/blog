@@ -1,7 +1,7 @@
 ---
 thumbnail: http://img0.imgtn.bdimg.com/it/u=344214012,4111771708&fm=26&gp=0.jpg
 title: java中的日志配置与解释
-tags: 'java,log'
+tags: [java]
 date: 2020-03-22 12:19:39
 categories:
 ---
